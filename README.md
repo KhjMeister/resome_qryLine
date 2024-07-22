@@ -6,7 +6,7 @@
  
   content managment for Behbood Rayan
  
-  worked as Backend Developer with Laravel and LiveWire
+  worked as Backend Developer 
   
  # pictures
  
